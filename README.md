@@ -21,7 +21,7 @@ Incorporate variety of media – Use at least four different types of Scene API 
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project] (Copy of UML Diagram (New Scene, New Me).png) 
+![UML Diagram for my project] (UMLdiagram.png) 
 
 ## Description of 2025 recap
 
@@ -29,7 +29,8 @@ In my 2025 recap scene, I had a bunch of methods to show pictures of the best me
 
 ## Description of 2026 goals
 
-Write a description of what you included in your 2026 goals scene (ThisYear)
+In my 2026 scene, I used more methods to make my program stand out. I reused the drawCaptionBox() method and also added drawStack() board to put a stacking animation of the pictures.
+
 ## Scene API Usage
 
-Describe how you were able to use the various methods from the Scene API to create your animation. 
+I was able to use the various methods for my animation with various methods such as setFillColor(), drawText(), setTextStyle(), setTextColor(), setTextHeight(), drawImage(), clear(), and pause(). 
