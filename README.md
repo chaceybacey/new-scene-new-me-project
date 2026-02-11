@@ -21,11 +21,11 @@ Incorporate variety of media – Use at least four different types of Scene API 
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](Copy of UML Diagram (New Scene, New Me).png) 
+![UML Diagram for my project] (Copy of UML Diagram (New Scene, New Me).png) 
 
 ## Description of 2025 recap
 
-Write a description of what you included in your 2025 recap scene (LastYear)
+In my 2025 recap scene, I had a bunch of methods to show pictures of the best memories that I had last year. I used Mr. Aiello's special methods like drawCaptionBox() and drawTransitionBanner() to make my program stick out. 
 
 ## Description of 2026 goals
 
