@@ -21,7 +21,7 @@ Incorporate variety of media – Use at least four different types of Scene API 
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project] (UMLdiagram.png) 
+![UML Diagram for my project](UMLdiagram.png) 
 
 ## Description of 2025 recap
 
